@@ -1,6 +1,9 @@
-### Hi there 👋
-#### Welcome to the brains behind the beauty of my websites :). Some of my repo's are private. If there is a project you see on my portfolio that is not included in my public repo please let me know and I can change that 🤪
-!(https://github.com/danielhabila/danielhabila/blob/main/bgbanner.png)
+### Hey there 👋
+
+![](https://github.com/danielhabila/danielhabila/blob/main/bgbanner.png)
+
+Welcome to the brains behind the beauty of my websites 🧠. Some of my repo's are private. If there is a project you see on my portfolio that is not included in my public repo please let me know and I can change that 🤪
+
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
@@ -11,6 +14,7 @@ Skills:
 * 🌬️  TAILWIND CSS
 * ☘️   MONGODB
 * ⚙️   NGINX
+* ...
 
 
 
