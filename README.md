@@ -2,7 +2,7 @@
 
 ![](https://github.com/danielhabila/danielhabila/blob/main/bgbanner.png)
 
-Welcome to the brains behind the beauty of my websites 🧠. Have fun browsing and let me know if you have any questions 🤪
+Welcome to the brains behind my websites 🧠. Have fun browsing and let me know if you have any questions 🤪
 
 
 Skills: 
